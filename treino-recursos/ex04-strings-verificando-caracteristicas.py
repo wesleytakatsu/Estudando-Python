@@ -1,3 +1,4 @@
+# VERIFICANDO CARACTERÍSTICAS DA STRING
 txt = input('Digite algo: ')
 print('O tipo primitivo desse dado é:', type(txt))
 print('Só tem espaços?', txt.isspace())

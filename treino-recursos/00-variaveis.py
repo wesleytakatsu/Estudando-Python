@@ -1,3 +1,5 @@
+# INTRODUÇÃO, COM O PRIMEIRO CONTATO COM VARIÁVEIS
+
 print('Criando as primeiras variáveis')
 
 nome = input('Qual é o seu nome?')

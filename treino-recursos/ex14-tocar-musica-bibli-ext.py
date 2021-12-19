@@ -7,7 +7,7 @@ import pygame
 pygame.mixer.init()     # se tirar o programa fecha antes de a música terminar
 pygame.init()
 
-pygame.mixer.music.load('ex014.mp3')
+pygame.mixer.music.load('ex14.mp3')
 pygame.mixer.music.play()
 pygame.event.wait()     # aguardar a música acabar para finalizar o programa
 

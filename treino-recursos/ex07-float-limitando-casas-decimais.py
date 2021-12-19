@@ -1,4 +1,5 @@
 # CONVERTER O VALOR DE DÓLAR PARA REAIS
+# LIMITANDO CASAS DECIMAIS
 
 dolar = float(input('Digite um valor em dólar: '))
 reais = dolar * 5.5

@@ -1,3 +1,4 @@
+# SOMANDO NÚMEROS E MEXENDO COM STRINGS
 n1 = 3
 n2 = 5
 sm = n1 + n2

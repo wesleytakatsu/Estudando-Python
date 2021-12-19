@@ -1,3 +1,4 @@
+# SOMANDO NÚMEROS
 n1 = int(input('Digite um num: '))
 n2 = int(input('Digite outro num: '))
 soma = n1 + n2
